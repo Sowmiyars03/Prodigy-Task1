@@ -1,0 +1,75 @@
+174476789
+
+<!DOCTYPE html>
+
+chtal Lang-"en">
+
+<head>
+
+mela charsel-"UTF-8">
+
+<meta http-equiv"X-UA-Compatible" content "IL-edge">
+
+<meta name="viewport" content="width-device-width, initial-scale-1.0">
+
+<link rel-"stylesheet" href-"styles.css
+
+<title>Stopwatch</title>
+
+10
+
+</head>
+
+11
+
+<body>
+
+12
+
+<div class="stopwatch">
+
+13
+
+14
+
+oliv class="display" id="display">00:00:00</div>
+
+<div class="bul tons">
+
+16
+
+<button id- startbtn">Start</button>
+
+17
+
+chulton id-stopstu Stopc/hul Lons
+
+18
+
+<button id-"resetDtn" Reset</button>
+
+19
+
+20
+
+</div>
+
+</div>
+
+21
+
+<script src-script.js"></script>
+
+22
+
+23
+
+</body>
+
+24
+
+25
+
+</html>
+
+26
